@@ -1,0 +1,22 @@
+{
+  "name": "proyectoexpress",
+  "version": "1.0.0",
+  "description": "intoduccion a api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fernanda-mr/introduccionaapi.git"
+  },
+  "author": "Maria Fernanda Moya Ruiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fernanda-mr/introduccionaapi/issues"
+  },
+  "homepage": "https://github.com/Fernanda-mr/introduccionaapi#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
